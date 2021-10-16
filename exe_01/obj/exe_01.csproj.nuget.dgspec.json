@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/exe_01.csproj": {}
+  },
+  "projects": {
+    "/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/exe_01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/exe_01.csproj",
+        "projectName": "exe_01",
+        "projectPath": "/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/exe_01.csproj",
+        "packagesPath": "/Users/thiagosantos/.nuget/packages/",
+        "outputPath": "/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thiagosantos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

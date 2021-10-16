@@ -1,0 +1,15 @@
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/obj/Debug/net5.0/exe_01.csproj.AssemblyReference.cache
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/obj/Debug/net5.0/exe_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/obj/Debug/net5.0/exe_01.AssemblyInfoInputs.cache
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/obj/Debug/net5.0/exe_01.AssemblyInfo.cs
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/obj/Debug/net5.0/exe_01.csproj.CoreCompileInputs.cache
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/bin/Debug/net5.0/exe_01.deps.json
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/bin/Debug/net5.0/exe_01.runtimeconfig.json
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/bin/Debug/net5.0/exe_01.runtimeconfig.dev.json
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/bin/Debug/net5.0/exe_01.dll
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/bin/Debug/net5.0/ref/exe_01.dll
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/bin/Debug/net5.0/exe_01.pdb
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/obj/Debug/net5.0/exe_01.dll
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/obj/Debug/net5.0/ref/exe_01.dll
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/obj/Debug/net5.0/exe_01.pdb
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/exe_01/obj/Debug/net5.0/exe_01.genruntimeconfig.cache
