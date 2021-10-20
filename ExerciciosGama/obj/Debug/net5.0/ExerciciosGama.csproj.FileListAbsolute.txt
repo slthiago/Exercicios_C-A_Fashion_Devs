@@ -1,0 +1,15 @@
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/ExerciciosGama/bin/Debug/net5.0/ExerciciosGama.deps.json
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/ExerciciosGama/bin/Debug/net5.0/ExerciciosGama.runtimeconfig.json
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/ExerciciosGama/bin/Debug/net5.0/ExerciciosGama.runtimeconfig.dev.json
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/ExerciciosGama/bin/Debug/net5.0/ExerciciosGama.dll
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/ExerciciosGama/bin/Debug/net5.0/ref/ExerciciosGama.dll
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/ExerciciosGama/bin/Debug/net5.0/ExerciciosGama.pdb
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/ExerciciosGama/obj/Debug/net5.0/ExerciciosGama.csproj.AssemblyReference.cache
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/ExerciciosGama/obj/Debug/net5.0/ExerciciosGama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/ExerciciosGama/obj/Debug/net5.0/ExerciciosGama.AssemblyInfoInputs.cache
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/ExerciciosGama/obj/Debug/net5.0/ExerciciosGama.AssemblyInfo.cs
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/ExerciciosGama/obj/Debug/net5.0/ExerciciosGama.csproj.CoreCompileInputs.cache
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/ExerciciosGama/obj/Debug/net5.0/ExerciciosGama.dll
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/ExerciciosGama/obj/Debug/net5.0/ref/ExerciciosGama.dll
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/ExerciciosGama/obj/Debug/net5.0/ExerciciosGama.pdb
+/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/Exercicios_C-A_Fashion_Devs/ExerciciosGama/obj/Debug/net5.0/ExerciciosGama.genruntimeconfig.cache
